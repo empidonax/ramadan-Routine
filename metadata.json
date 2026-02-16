@@ -1,0 +1,5 @@
+{
+  "name": "Ramadan Daily Planner",
+  "description": "A minimal, offline-first PWA for tracking daily prayers, Quran, and habits during Ramadan. Features local storage persistence, analytics, and a mobile-optimized dark mode UI.",
+  "requestFramePermissions": []
+}
