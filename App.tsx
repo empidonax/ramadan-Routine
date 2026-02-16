@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { useRamadanPlanner } from './hooks/useRamadanPlanner';
 import { SetupScreen } from './components/SetupScreen';
 import { Dashboard } from './components/Dashboard';

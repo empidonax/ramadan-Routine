@@ -1,5 +1,5 @@
 import { useLocalStorage } from './useLocalStorage';
-import { Task, Settings, Day } from '../types';
+import { Task, Day } from '../types';
 import { useCallback } from 'react';
 
 export const useRamadanPlanner = () => {
